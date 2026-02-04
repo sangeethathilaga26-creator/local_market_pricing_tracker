@@ -1,0 +1,10 @@
+s.no,year,month,state,occupation,item,men,women,"rural_wages_|__official_website_of_labour_bureau,_ministry_of_labour_and
+employment,government_of_india",year_clean,Date,Item,Price
+32.0,2024-2025,Jan,TAMIL NADU,Agriculture,Harvesting/Winnowing/Threshing workers,585.28,396.14,,2024,2024-01-01,Rice,45
+32.0,2024-2025,Jan,TAMIL NADU,Agriculture,Harvesting/Winnowing/Threshing workers,585.28,396.14,,2024,2024-01-01,Wheat,38
+45.0,2024-2025,Jan,TAMIL NADU,Agriculture,Sowing(including Planting/Transplanting/ Weeding) workers),595.48,397.88,,2024,2024-01-01,Rice,45
+45.0,2024-2025,Jan,TAMIL NADU,Agriculture,Sowing(including Planting/Transplanting/ Weeding) workers),595.48,397.88,,2024,2024-01-01,Wheat,38
+54.0,2024-2025,Jan,TAMIL,Agriculture,General agricultural labourers (including,582.8,372.37,,2024,2024-01-01,Rice,45
+54.0,2024-2025,Jan,TAMIL,Agriculture,General agricultural labourers (including,582.8,372.37,,2024,2024-01-01,Wheat,38
+60.0,2024-2025,Jan,TAMIL NADU,Agriculture,Ploughing/Tilling workers,712.71,,,2024,2024-01-01,Rice,45
+60.0,2024-2025,Jan,TAMIL NADU,Agriculture,Ploughing/Tilling workers,712.71,,,2024,2024-01-01,Wheat,38
